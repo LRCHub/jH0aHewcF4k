@@ -1,0 +1,68 @@
+# IMP. – BAM-BOO
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(IMP.) 想像軽く超えてけ
+Next level
+Different colors 交わる
+(IMP.) Neo JP icon’s gonna
+make you wanna say (Oh wow!)
+IMP.’s gonna rock
+We run to the top
+Can’t take us down (Brah)
+ブレない絆 Just trust and love
+Get the brand new crown
+まだ序章
+始まったばっかのこのRace
+TOKYOから根を張り存在で証明
+数字の“1”のように天高く伸びる
+深く根を張る There is no trick
+このStreetのCornerきり
+ジェットコースターばり
+Speed出しBarricade突破
+Critical立て続けにHit !
+PINKY.からCatchするBlessing
+BOOM... BAM-BOO!
+Everybody say
+Lalala Iya (Alright)
+Lalala Iya (Alright)
+BOOM... BAM-BOO!
+Everybody say
+Lalala I Lalala (Alright)
+Lalala I Lala (Alright)
+Lalalala
+Feeling-feeling kinda
+right-right
+We’ll be like
+太陽に向け羽を伸ばす
+ジリジリ燃えるギリギリのRace
+イカロスと違う翼は溶けず (FLY!)
+Pump ya fist and
+scream n’ shout
+LifeはいつもNo rehearsal
+シリアス飛ばすCBR (VROOM)
+Fast and Furious
+信じ合うCruise
+竹頭木屑（ちくとうぼくせつ）
+位をやらねば！
+チャンス飛ばすぜ　愚のパラメータ
+宙に伸ばすぜ　桿と節 Get up!
+風に柔軟になびく枝葉張り巡るRoot
+Uh 無限の螺旋フィボナッチ
+回転しながら
+上がっていく彼方に (Hoo)
+Yeah 刻み込む身体に
+竹帛之功（ちくはくのこう）
+残そう新たに！
+(We go like this)
+BOOM... BAM-BOO!
+Everybody say
+Lalala Iya (Alright)
+Lalala Iya (Alright)
+BOOM... BAM-BOO!
+Everybody say
+Lalala I Lalala (Alright)
+Lalala I Lala (Alright)
+Lalalala
+```
