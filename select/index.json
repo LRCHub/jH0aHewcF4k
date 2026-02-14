@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BAM-BOO",
+  "base_artist": "IMP.",
+  "createdAt": "2026-02-14T13:22:31.809704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Me Ol' Bam-Boo - From \"Chitty Chitty Bang Bang\"",
+      "artist": "Camarata",
+      "has_synced": false,
+      "path": "select/01_Me_Ol'_Bam-Boo_-_From__Chitty_Chitty_Bang_Bang_Camarata.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAM-BOO",
+      "artist": "IMP.",
+      "has_synced": false,
+      "path": "select/pl_01_BAM-BOO_IMP..txt"
+    }
+  ]
+}
